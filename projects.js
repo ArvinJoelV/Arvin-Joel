@@ -1,5 +1,11 @@
 const projects=[
     {
+        id:"8",
+        name:"Weather App",
+        image:"./weather.png",
+        link:"https://arvinjoelv.github.io/WeatherApp/"
+    },
+    {
         id:"1",
         name:"Rock Paper Scissor Game",
         image:"./rockpaper.png",
