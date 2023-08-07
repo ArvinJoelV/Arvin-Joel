@@ -1,4 +1,10 @@
 const projects=[
+     {
+        id:"9",
+        name:"Hotstar Clone",
+        image:"./hotstar.png",
+        link:"https://arvinjoelv.github.io/HotstarClone/"
+    },
     {
         id:"8",
         name:"Weather App",
